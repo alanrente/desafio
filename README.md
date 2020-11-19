@@ -1,5 +1,15 @@
 # frontend
 
+#### @vue/cli 4.5.8
+
+## Antes de iniciar o projeto instale e execute a api
+
+### Entre na pasta /api e execute os comandos abaixo
+```
+npm install
+npm start
+```
+
 ## Project setup
 ```
 npm install
